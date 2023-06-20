@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.mskcc.aws.nonprod.osys.tool.MyMSK",
+      "sha256_cert_fingerprints": [
+        "CA:9A:C6:FA:FA:65:AC:11:7F:BC:D0:05:13:87:5A:B0:8F:8A:8A:2E:C3:3E:D2:8C:D7:51:E2:C1:B9:A3:E4:C4"
+      ]
+    }
+  }
+]
